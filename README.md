@@ -9,6 +9,7 @@ Advanced deep learning theory and practical applications covering neural network
 |------|-------|------|
 | Week 2 | Neural Networks & Advanced Backpropagation | CaseStudy2Submission_NeuralNetworks&AdvancedBackpropagation_LSmith-4-15-26.ipynb |
 | Week 3 | CNN Image Classification with Transfer Learning | IT721Week3CaseStudy_LSmith.ipynb |
+| Week 4 | RNN & LSTM for Sequence Modeling | IT721Week4CaseStudy_LSmith_4-27-26.ipynb |
 
 ### Tools & Frameworks
 - TensorFlow / Keras
@@ -18,7 +19,7 @@ Advanced deep learning theory and practical applications covering neural network
 
 ### Models Implemented
 - Custom CNN (82.13% CIFAR-10 test accuracy)
-- VGG16 Transfer Learning (50.46%)
 - ResNet50 Transfer Learning (84.46%)
 - EfficientNetB0 Transfer Learning + Fine-tuning (82.88%)
-- SE-CNN with Squeeze-and-Excitation attention blocks
+- Vanilla RNN, LSTM, GRU — single/stacked/bidirectional (IMDB sentiment)
+- LSTM + Bahdanau Attention (86.31%)
