@@ -11,6 +11,7 @@ Advanced deep learning theory and practical applications covering neural network
 | Week 3 | CNN Image Classification with Transfer Learning | IT721Week3CaseStudy_LSmith.ipynb |
 | Week 4 | RNN & LSTM for Sequence Modeling | IT721Week4CaseStudy_LSmith_4-27-26.ipynb |
 | Week 5 | Autoencoders & Generative Models | IT721Week5CaseStudy_LSmith.ipynb |
+| Week 6 | Cats vs Dogs CNN Lab | IT721Week6CaseStudy_LSmith.ipynb |
 
 ### Tools & Frameworks
 - TensorFlow / Keras
@@ -27,3 +28,4 @@ Advanced deep learning theory and practical applications covering neural network
 - Convolutional Autoencoder (SSIM: 0.5844)
 - Variational Autoencoder (VAE) with reparameterization trick
 - DCGAN for face generation (CelebA)
+- Cats vs Dogs CNN — 82.07% test accuracy with parameter experiments
